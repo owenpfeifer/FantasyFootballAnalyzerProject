@@ -1,6 +1,10 @@
 ## Software Engineering Project Fantasy Football Analyzer
 Owen Pfeifer, Josh Smith, Ryan Snyder
 
+Testing: Use 'npx vitest run' command to test 4 units and 2 components
+
+Run: Run using 'npm run dev' then Ctrl+Click on http://localhost:3000
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
